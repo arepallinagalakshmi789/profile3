@@ -1,0 +1,148 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Zoomapp</title>
+        <link href="home.css" rel="stylesheet"/>
+    </head>
+    <body>
+        <header>
+            <div id="brand">
+                Developer Funnel
+            </div>
+            <div id="social">
+              <a href="https://facebook.com">
+                <img src="https://tse3.mm.bing.net/th?id=OIP.lkR1eCnLcPZ32cYreDUNkgAAAA&pid=Api&P=0&h=180" alt="fb" class="slogo"/>
+              </a>
+              <a href="https://facebook.com">
+                <img src="https://tse1.mm.bing.net/th?id=OIP.lQRk_LuIIh-6LXK9jplxGAHaHZ&pid=Api&P=0&h=180" alt="fb" class="slogo"/>
+              </a>
+            </a>
+            <a href="https://facebook.com">
+              <img src="https://tse4.mm.bing.net/th?id=OIP.hR6TQma4SWfP-yfQmT5oqgAAAA&pid=Api&P=0&h=180" alt="fb" class="slogo"/>
+            </a>
+         </div>
+
+      </header>
+      <!--Search-->
+      <div id="search">
+        <div id="logo">
+          <span>D!</span>
+        </div>
+        <div id="heading">
+          Find Best Place Near You
+        </div>
+        <div class="dropdown">
+          <select>
+            <option>----SELECT CITY</option>
+            <option>Delhi</option>
+            <option>Amsterdam</option>
+          </select>
+          <select id="restSelect">
+            <option>----SELECT RESTAURANTE</option>
+            <option>restaurant1</option>
+            <option>restaurant2</option>
+          </select>
+
+        </div>
+      </div>
+      <!--Quick Search-->
+      <div id="quicksearch">
+        <span class="quickHeading">Quick Search</span>
+        <span class="quickSubHeading">Find Restaurant By MealType</span>
+        <div class="mainbox">
+          <div class="tileComponent">
+            <div class="titleComponent1">
+              <img src="https://tse1.mm.bing.net/th?id=OIP.-1PKPG_uHo9jBHyodpA4-AHaJ4&pid=Api&rs=1&c=1&qlt=95&w=75&h=100" alt="dinner"/>
+
+            </div>
+            <div class="titleComponent2">
+              <a href="#">Breakfast</a>
+              <p>Best Deal For Breakfast</p>
+
+            </div>
+          </div>
+          <div class="tileComponent">
+            <div class="titleComponent1">
+              <img src="https://tse2.mm.bing.net/th?id=OIP.71SjJZOS0W6hdq65ugVm-wHaHa&pid=Api&P=0&h=180" alt="dinner"/>
+
+            </div>
+            <div class="titleComponent2">
+              <a href="#">Breakfast</a>
+              <p>Best Deal For Breakfast</p>
+
+            </div>
+          </div>
+          <div class="tileComponent">
+            <div class="titleComponent1">
+              <img src="https://tse4.mm.bing.net/th?id=OIP.xK9s-GV3zcM911ZuRkgzQQHaFz&pid=Api&P=0&h=180" alt="dinner"/>
+
+            </div>
+            <div class="titleComponent2">
+              <a href="#">Breakfast</a>
+              <p>Best Deal For Breakfast</p>
+
+            </div>
+          </div>
+          <div class="tileComponent"><div class="titleComponent1">
+            <img src="https://tse1.mm.bing.net/th?id=OIP.zMj_LWuptbOwFB-b5OSGCQHaFj&pid=Api&rs=1&c=1&qlt=95&w=141&h=105" alt="dinner"/>
+
+          </div>
+          <div class="titleComponent2">
+            <a href="#">Breakfast</a>
+            <p>Best Deal For Breakfast</p>
+
+          </div></div>
+          <div class="tileComponent">
+            <div class="titleComponent1">
+            <img src="https://tse1.mm.bing.net/th?id=OIP.PkBgs_usNHumY5xO3sAr4gHaE8&pid=Api&rs=1&c=1&qlt=95&w=158&h=105" alt="dinner"/>
+
+          </div>
+          <div class="titleComponent2">
+            <a href="#">Breakfast</a>
+            <p>Best Deal For Breakfast</p>
+
+          </div>
+         </div>
+          <div class="tileComponent">
+            <div class="titleComponent1">
+              <img src="https://tse1.mm.bing.net/th?id=OIP.w6Tha3mwya7F3JbC00rAXwHaFP&pid=Api&rs=1&c=1&qlt=95&w=175&h=124" alt="dinner"/>
+
+            </div>
+            <div class="titleComponent2">
+              <a href="#">Breakfast</a>
+              <p>Best Deal For Breakfast</p>
+
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--Footer-->
+      <footer>
+        <hr/>
+        <p class="FootText">&copy Developer Funnel 2024-25</p>
+        <hr/>
+        <div class="footdiv">
+          <ul>
+            <li>About Us</li>
+            <li>Contact Us</li>
+          </ul>
+        </div>
+        <div class="footdiv">
+          <ul>
+            <li>About Us</li>
+            <li>Contact Us</li>
+          </ul>
+        </div>
+        <div class="footdiv noBorder">
+          <ul>
+            <li>About Us</li>
+            <li>Contact Us</li>
+          </ul>
+        </div>
+      </footer>
+  </body>
+</html>
+
+
+
+
